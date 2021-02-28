@@ -1,4 +1,4 @@
-module benchmark/protobuf
+module github.com/tonybase/benchmark
 
 go 1.16
 
